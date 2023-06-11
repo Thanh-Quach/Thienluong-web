@@ -1,0 +1,1 @@
+export const api = 'https://thanhquach.tech/API/haldiep/public/api/'
